@@ -43,3 +43,5 @@
 
 * The information found here is what you would need to pull off of a form from an input
 * **NOTE** The `id` field is auto generated on the server, so you don't need to send an `id` up with your information.
+
+Mario Amaya
