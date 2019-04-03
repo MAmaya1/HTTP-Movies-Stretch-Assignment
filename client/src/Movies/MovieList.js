@@ -18,7 +18,6 @@ export default class MovieList extends Component {
       .catch(err => {
         console.log(err);
       })
-  
   }
 
   render() {

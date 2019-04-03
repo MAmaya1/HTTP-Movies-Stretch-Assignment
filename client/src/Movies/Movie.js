@@ -24,6 +24,9 @@ export default class Movie extends React.Component {
       .then(res => {
         this.setState({movie: res.data})
       })
+      .catch(err => {
+        console.log(err);
+      })
   };
 
   saveMovie = () => {
